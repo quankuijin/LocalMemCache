@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+cache:
+  capacity: 5000
+
+spring:
+  application:
+    name: local-mem-cache
